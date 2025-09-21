@@ -10,6 +10,8 @@
   <div style="margin:4px 0;">
     <a href="https://calendular.straw.page/">STRAWPAGE</a> ⟢
     <a href="https://calindean.atabook.org/">SIGN ATA!</a>
+
+  L0VE TALKING TO PE0PLE! IF IM BUSY 0R SLEEPY I'LL HAVE SLOW REPLIES, IF NOT DO INT! 
   </div>
 
   
