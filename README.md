@@ -12,15 +12,10 @@
     <a href="https://calindean.atabook.org/">SIGN ATA!</a>
 
 
-<p>
+<p align="center">
   <img src="orange-text.svg" alt="orange text"/>
 </p>
 
-  </div>
+</div>
 
   
-
-
-
-
-</div>
