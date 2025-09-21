@@ -13,7 +13,7 @@
 
 
 <p align="center">
-  <img src="orange-text.svg" alt="orange text"/>
+  <img src="orange-text.svg"/>
 </p>
 
 </div>
