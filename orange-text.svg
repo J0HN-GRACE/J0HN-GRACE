@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="40" viewBox="0 0 900 40">
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-        font-family="Arial, Helvetica, sans-serif" font-size="16" fill="orange">
-    L0VE TALKING TO PE0PLE! 
-    IF IM BUSY 0R SLEEPY I'LL HAVE SL0W REPLIES, IF N0T D0 INT!
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="80" viewBox="0 0 900 80">
+  <text x="50%" y="40%" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="orange">
+    <tspan x="50%" dy="0">L0VE TALKING TO PE0PLE!</tspan>
+    <tspan x="50%" dy="1.5em">IF IM BUSY 0R SLEEPY I'LL HAVE SL0W REPLIES.</tspan>
+    <tspan x="50%" dy="1.5em">0THER THAN THAT, FEEL FREE TO WHISPER!</tspan>
   </text>
 </svg>
