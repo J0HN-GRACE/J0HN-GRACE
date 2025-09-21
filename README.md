@@ -11,7 +11,8 @@
     <a href="https://calendular.straw.page/">STRAWPAGE</a> ⟢
     <a href="https://calindean.atabook.org/">SIGN ATA!</a>
 
-  L0VE TALKING TO PE0PLE! IF IM BUSY 0R SLEEPY I'LL HAVE SLOW REPLIES, IF NOT DO INT! 
+ <span style="color:orange">red L0VE TALKING TO PE0PLE! IF IM BUSY 0R SLEEPY I'LL HAVE SL0W REPLIES, IF N0T D0 INT! </span>.  
+
   </div>
 
   
