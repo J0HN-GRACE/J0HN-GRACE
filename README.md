@@ -18,5 +18,8 @@
 
 </div>
 
+</p>
+
+
   
-I like!! Pressure, Grace, Doors, Delusional Office, Pizza game!!! I'm working on Final Days & Retrograde Wary plus personal projects!!
+I like Pressure, Grace, Doors, Delusional Office, Pizza game!!! I'm working on Final Days & Retrograde Wary plus personal projects!!
