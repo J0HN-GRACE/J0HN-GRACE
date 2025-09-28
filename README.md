@@ -22,5 +22,5 @@
 
 
   
-I use skins of: Pressure, Grace, Doors, Delusional Office & Pizza game!!! 
+I currently mainly use skins of: Pressure, Grace, Doors, Delusional Office & Pizza game!!! 
  
