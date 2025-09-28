@@ -22,5 +22,7 @@
 
 
   
-I like: Pressure, Grace, Doors, Delusional Office & Pizza game!!! Currently working on the roblox game Final Days, plus other games in the past like Retrograde Wary as well as personal projects! 
+I like: Pressure, Grace, Doors, Delusional Office & Pizza game!!! 
+
+Currently working on the roblox game Final Days, plus other games in the past like Retrograde Wary as well as personal projects! 
  
