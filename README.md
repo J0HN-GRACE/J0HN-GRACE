@@ -16,11 +16,13 @@
   <img src="orange.svg"/>
 </p>
 
+  <img src="https://i.imgur.com/gsdr9Ym.png" width="400" style="margin:4px 0;"/>
+
+
 </div>
 
 </p>
 
 
   
-I currently use skins of: Pressure, Grace, Doors, Delusional Office & Pizza game!
  
