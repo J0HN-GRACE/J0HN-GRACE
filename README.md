@@ -13,7 +13,7 @@
 
 
 <p align="center">
-  <img src="text.svg"/>
+  <img src="text1.svg"/>
 </p>
 
   <img src="https://i.imgur.com/i1U6zFY.gif" width="500" style="margin:4px 0;"/>
