@@ -16,9 +16,6 @@
   <img src="text4.svg"/>
 </p>
 
-  <img src="https://i.imgur.com/i1U6zFY.gif" width="500" style="margin:4px 0;"/>
-
-
 </div>
 
 </p>
